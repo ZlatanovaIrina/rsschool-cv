@@ -15,8 +15,8 @@
 * SQL
 
 ## Code Examples
-__5 kyu CodeWars kata__
-__Description:__
+* __5 kyu CodeWars kata__
+* __Description:__
 Move the first letter of each word to the end of it, then add "ay" to the end of the word. Leave punctuation marks untouched.
 
 __Solution:__
