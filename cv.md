@@ -26,3 +26,10 @@ function pigIt(str){
 }
 
 ```
+
+## Education
+* Immanuel Kant Baltic Federal University.
+Mathematical support and administration of information systems.
+
+* RS School JS/FE Pre-School 2022Q2
+![certificate](/rsschool-cv/assets/Pre_School_2022Q2_certificate.png)
